@@ -1,0 +1,15 @@
+0a5d08aca22b7607684b8af452a8ca79  BalanceSheet-Bank.tar.gz
+624e52052d9110bfc147dcfeb262214d  BalanceSheet-GeneralBusiness.tar.gz
+07d869cacc0bc515d6544ae32b2f63f7  BalanceSheet-Insurance.tar.gz
+54f43c70239a3826a74a892b2967d143  BalanceSheet-Securities.tar.gz
+d3ad697fa19d9196a0b503906ee1466a  CashFlowStatement-Bank.tar.gz
+3f4518f85b08e55c6055c74f55f614ea  CashFlowStatement-GeneralBusiness.tar.gz
+5a2854f3d1e4fc36e12a2c4c6831bbfa  CashFlowStatement-Insurance.tar.gz
+0ca1b33f4f5031be81f74e025b0c5995  CashFlowStatement-Securities.tar.gz
+aa80bd8e9d1389071b0d163ff10f1402  CompanyOperation.tar.gz
+f96b4b68a136fb665644522bd86e4cf6  IncomeStatement-Bank.tar.gz
+9ab1c40ae0087ea46ff728d860c7bb5d  IncomeStatement-GeneralBusiness.tar.gz
+80782125c25eff3951b604d27412107a  IncomeStatement-Insurance.tar.gz
+80b8802bacb0308847d15fe83e645a10  IncomeStatement-Securities.tar.gz
+3ad26b0bd57f9970562a1fac81628c6f  MacroIndustry.tar.gz
+4fbebc18beac0e419f5681879439ea23  MarketData.tar.gz
