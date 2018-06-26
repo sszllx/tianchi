@@ -1,0 +1,10 @@
+pandas
+sklearn
+scipy
+xgboost
+seaborn
+keras
+tensorflow
+plotly
+jupyter
+
